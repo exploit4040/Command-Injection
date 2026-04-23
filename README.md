@@ -421,7 +421,7 @@ Host   webhook.site
 
 **Contenu brut reçu** :
 ```
-Comma@nd_1nJec7ion_Fl@9_1337_Th3_G@m3!!!
+Comma@nd_1nJec7ion_Fl@9************
 ```
 
 ✅ **C'est le flag !** Le serveur a envoyé le contenu de `.passwd` en 41 bytes via curl.
