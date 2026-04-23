@@ -5,7 +5,7 @@
 > **Auteur** : [exploit4040](https://github.com/exploit4040)  
 > **Date** : 23 avril 2026  
 > **Difficulté** : Intermédiaire  
-> **Flag** : `Comma@nd_1nJec7ion_Fl@9_1337_Th3_G@m3!!!`
+> **Flag** : `Comma@nd_1nJec7ion_Fl@9_**********`
 
 ---
 
